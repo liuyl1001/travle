@@ -25,7 +25,7 @@
 
 		<!-- 数据库连接配置开发包 -->
 		<mysql.version>5.0.4</mysql.version>
-		<c3p0.version>0.9.2.1</c3p0.version>
+		<c3p0.version>0.9.5.4</c3p0.version>
 		<mchange.version>0.2.12</mchange.version>
 
 		<!-- Mybatis开发包 -->
