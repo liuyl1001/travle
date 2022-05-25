@@ -43,7 +43,7 @@
 		<slf4j.version>1.7.21</slf4j.version>
 
 		<!-- 配置Spring开发包的相关版本属性 -->
-		<spring.version>4.3.8.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 
 		<!-- 以下为插件的版本属性配置 -->
 		<maven-war-plugin.version>3.0.0</maven-war-plugin.version>
