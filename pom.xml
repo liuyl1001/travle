@@ -24,7 +24,7 @@
 		<servlet.version>3.1.0</servlet.version>
 
 		<!-- 数据库连接配置开发包 -->
-		<mysql.version>5.0.4</mysql.version>
+		<mysql.version>8.0.28</mysql.version>
 		<c3p0.version>0.9.2.1</c3p0.version>
 		<mchange.version>0.2.12</mchange.version>
 
